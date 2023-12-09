@@ -8,5 +8,10 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description : <ul><li>Displays incomplete tasks (assignments, quizzes, lectures, etc.)</li><li>Shows completed tasks</li><li>Presents new announcements</li><li>Displays events scheduled for the day</li><li>Shows a cute cat</li></ul>
+description1 : Displays incomplete tasks (assignments, quizzes, lectures, etc.).
+description2 : Displays completed tasks.
+description3 : Presents new announcements.
+description4 : Displays events scheduled for the day.
+description5 : Clicking allows you to view the relevant content.
+description6 : Displays a cute cat.
 ---
