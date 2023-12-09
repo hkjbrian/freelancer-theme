@@ -8,10 +8,10 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
+description : 
+  - Displays incomplete tasks (assignments, quizzes, lectures, etc.).
+  - Displays completed tasks.
+  - Presents new announcements.
+  - Displays events scheduled for the day.
+  - Displays a cute cat.
 ---
-
-- Displays incomplete tasks (assignments, quizzes, lectures, etc.).
-- Shows completed tasks.
-- Presents new announcements.
-- Displays events scheduled for the day.
-- Shows a cute cat.
