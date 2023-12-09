@@ -22,10 +22,11 @@
             {% if post.description %}
             
             <ul>
-            {% for item in page.description %}
+            {% for item in post.description %}
             <li>{{ item }}</li>
             {% endfor %}
             </ul>
+            
             {% endif %}
             <ul class="list-inline item-details">
               {% if post.client %}
