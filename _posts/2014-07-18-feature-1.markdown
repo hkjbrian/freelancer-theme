@@ -9,10 +9,5 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description : 
-  -Displays incomplete tasks (assignments, quizzes, lectures, etc.).
-  -Displays completed tasks.
-  -Presents new announcements.
-  -Displays events scheduled for the day.
-  -Clicking allows you to view the relevant content.
-  -Displays a cute cat.
+<ul><li>Displays incomplete tasks (assignments, quizzes, lectures, etc.)</li><li>Shows completed tasks</li><li>Presents new announcements</li><li>Displays events scheduled for the day</li><li>Shows a cute cat</li></ul>
 ---
