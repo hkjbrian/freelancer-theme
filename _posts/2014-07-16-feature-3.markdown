@@ -8,5 +8,8 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description1: Check notifications for upcoming events.
+description2: Verify notifications for incomplete tasks (assignments, quizzes, lectures, etc.).
+description3: Review notifications for new updates in lectures (announcements, grading, material uploads, etc.).
+description4: Click on the respective block to access related content.
 ---
