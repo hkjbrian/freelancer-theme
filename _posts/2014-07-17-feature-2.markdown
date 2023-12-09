@@ -8,5 +8,8 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description1 : You can check the calendar for lectures, assignments, and quizzes individually or view them all together.
+description2 : Completed schedules are indicated in green.
+description3 : Incomplete schedules are marked in red.
+description4 : User-added upcoming schedules are highlighted in yellow.
 ---
