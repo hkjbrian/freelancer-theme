@@ -20,9 +20,12 @@
             <img src="img/portfolio/{{ post.img3 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
             {% endif %}
             {% if post.description %}
+            
+            <ul>
             {% for item in page.description %}
-            -{{ item }}
+            <li>{{ item }}</li>
             {% endfor %}
+            </ul>
             {% endif %}
             <ul class="list-inline item-details">
               {% if post.client %}
