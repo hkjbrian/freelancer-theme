@@ -3,6 +3,7 @@ layout: default
 modal-id: 2
 date: 2014-07-17
 img: 2_calander.png
+img2 : 2_calander_app.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
