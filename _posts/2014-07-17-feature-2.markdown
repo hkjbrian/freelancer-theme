@@ -5,11 +5,10 @@ date: 2014-07-17
 img: 2_calander.png
 img2 : 2_calander_app.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+project-date: December 2023
+category: Calander
 description1 : You can check the calendar for lectures, assignments, and quizzes individually or view them all together.
-description2 : Completed schedules are indicated in green.
-description3 : Incomplete schedules are marked in red.
+description2 : Completed schedules are highligted in green.
+description3 : Incomplete schedules are highlighed in red.
 description4 : User-added upcoming schedules are highlighted in yellow.
 ---
