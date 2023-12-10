@@ -5,11 +5,10 @@ date: 2014-07-16
 img: 3_notification.png
 img2: 3_notification_app.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+project-date: December 2023
+category: Nofification Centre
 description1: Check notifications for upcoming events.
-description2: Verify notifications for incomplete tasks (assignments, quizzes, lectures, etc.).
-description3: Review notifications for new updates in lectures (announcements, grading, material uploads, etc.).
+description2: Check notifications for incomplete tasks (assignments, quizzes, lectures, etc.).
+description3: Check notifications for new updates in lectures (announcements, grading, material uploads, etc.).
 description4: Click on the respective block to access related content.
 ---
