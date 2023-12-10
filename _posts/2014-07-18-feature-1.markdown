@@ -10,7 +10,7 @@ client: Start Bootstrap
 category: Web Development
 description1 : Displays incomplete tasks (assignments, quizzes, lectures, etc.).
 description2 : Displays completed tasks.
-description3 : Presents new announcements.
+description3 : Presents new notifications.
 description4 : Displays events scheduled for the day.
 description5 : Clicking allows you to view the relevant content.
 description6 : Displays a cute cat.
