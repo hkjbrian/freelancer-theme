@@ -5,7 +5,7 @@ url: https://github.com/DStrio/attend-sejong-app
 description: "AttendSejong is an open source project."
 keywords: "open source, AttendSejong"
 skills: "Easy to See - Easy to Check "
-meta_author: AttendSejong
+meta_author: DStrio
 
 # Google webmaster tools
 google_verify:
@@ -32,21 +32,17 @@ color:
 
 # Footer settings
 footer:
-  copyright: AttendSejong
+  copyright: DStrio
   location: Location
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: 
   - title: facebook
-    url:
+    url:https://www.facebook.com/
   - title: stack-overflow
-    url: 
-  - title: bitbucket
-    url: 
+    url: https://stackoverflow.com/
   - title: github
     url: https://github.com/DStrio/attend-sejong-app
 
@@ -56,7 +52,7 @@ address:
   - line: Gwangjin-gu, Seoul, Republic of Korea
 
 # Credits content
-credits: 'AttendSejong is a free to use, open source project created by DStrio.'
+credits: 'AttendSejong is free to use, an open source project created by DStrio.'
 
 # Build settings
 markdown: kramdown
